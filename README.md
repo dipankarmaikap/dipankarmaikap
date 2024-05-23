@@ -18,8 +18,8 @@ I'm passionate about web development and JavaScript, with experience in various 
 - Next.js
 - Remix
 - Astro
-- JavaScript (and many other JS frameworks)
-
+- Tailwind CSS
+- JavaScript
 ### Connect with Me
 
 - [Twitter](https://twitter.com/maikap_dipankar)
